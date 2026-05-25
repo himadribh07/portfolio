@@ -28,24 +28,24 @@ export default function PublicKeyCard() {
           <h3>Where it was learned.</h3>
           <div className="timeline">
             <div className="ti">
-              <div className="yr">2023 — 27</div>
+              <div className="yr">2024 — 26</div>
               <div className="body">
-                <div className="ti-t">B.Tech, Computer Science & Engineering</div>
-                <div className="ti-s">Specialization in AI / ML · CGPA in progress</div>
+                <div className="ti-t">M.Tech, Computer Science & Engineering</div>
+                <div className="ti-s">NIT Patna · CGPA 8.46</div>
               </div>
             </div>
             <div className="ti">
-              <div className="yr">2024</div>
+              <div className="yr">2018 — 22</div>
               <div className="body">
-                <div className="ti-t">DeepLearning.AI — GenAI w/ LLMs</div>
-                <div className="ti-s">Certified · prompt-engineering, RAG, fine-tuning</div>
+                <div className="ti-t">B.Tech, Electronics & Communication Engineering</div>
+                <div className="ti-s">Narula Institute of Technology, Kolkata · CGPA 9.05</div>
               </div>
             </div>
             <div className="ti">
-              <div className="yr">2023</div>
+              <div className="yr">2022</div>
               <div className="body">
-                <div className="ti-t">Microsoft — PowerBI Data Analyst</div>
-                <div className="ti-s">DAX, modeling, dashboarding</div>
+                <div className="ti-t">Microsoft AZ-900 — Azure Fundamentals</div>
+                <div className="ti-s">Certified · Cloud concepts, Azure services</div>
               </div>
             </div>
           </div>

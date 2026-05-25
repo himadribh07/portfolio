@@ -12,7 +12,7 @@ export default function ServiceAddressCard() {
           </div>
           <div className="row" style={{ marginTop: 10 }}>
             <div className="k">URI</div>
-            <div className="v">https://himadri.dev</div>
+            <div className="v">github.com/himadribh07</div>
           </div>
           <div className="row" style={{ marginTop: 10 }}>
             <div className="k">Channel ID</div>
@@ -26,10 +26,10 @@ export default function ServiceAddressCard() {
           <div className="panel-eyebrow">Contact — Reach Me</div>
           <h3>Open to roles & collaborations.</h3>
           <div className="contact-rows">
-            <div className="cr"><span className="k">Email</span><span className="v">blash@gmail.com</span></div>
-            <div className="cr"><span className="k">Phone</span><span className="v">+91 234567-9088</span></div>
-            <div className="cr"><span className="k">GitHub</span><span className="v">github.com/himadri</span></div>
-            <div className="cr"><span className="k">LinkedIn</span><span className="v">linkedin.com/in/himadri</span></div>
+            <div className="cr"><span className="k">Email</span><span className="v">work.himadribhattacharya@gmail.com</span></div>
+            <div className="cr"><span className="k">Phone</span><span className="v">+91 95236-85965</span></div>
+            <div className="cr"><span className="k">GitHub</span><span className="v">github.com/himadribh07</span></div>
+            <div className="cr"><span className="k">LinkedIn</span><span className="v">linkedin.com/in/himadribhattacharya3</span></div>
           </div>
           <div className="corner">CH · 07</div>
         </div>

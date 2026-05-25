@@ -26,7 +26,7 @@ export default function App() {
       {/* HERO */}
       <section className="hero" data-screen-label="01 Hero">
         <div className="eyebrow">— GenAI · Full-stack · Adaptive</div>
-        <h1>himadri<span className="accent">.</span></h1>
+        <h1><span className="accent">.</span>himadri</h1>
         <div className="tagline">"Adapt Anything!!"</div>
         <div className="role">GenAI Developer · Hover any card →</div>
 

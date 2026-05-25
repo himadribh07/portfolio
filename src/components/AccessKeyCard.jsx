@@ -2,17 +2,18 @@ import CardSlot from './CardSlot';
 
 export default function AccessKeyCard() {
   const skills = [
-    { name: "GenAI", hot: true },
-    { name: "AI/ML", hot: true },
-    { name: "ReactJS" },
-    { name: "Node.js" },
-    { name: "Express" },
-    { name: "MongoDB" },
-    { name: "PowerBI" },
-    { name: "JavaScript" },
-    { name: "HTML" },
-    { name: "CSS" },
+    { name: "GenAI / LLMs", hot: true },
+    { name: "RAG", hot: true },
+    { name: "Python", hot: true },
+    { name: "React.js" },
+    { name: "FastAPI" },
+    { name: "PyTorch" },
+    { name: "Multimodal AI" },
+    { name: "Qdrant" },
+    { name: "HuggingFace" },
+    { name: "Streamlit" },
   ];
+
   return (
     <CardSlot expand="right" rot={1.8}>
       <div className="card-face">
@@ -22,7 +23,7 @@ export default function AccessKeyCard() {
           <div className="chip"></div>
           <div style={{ position: "absolute", left: 90, bottom: 56 }}>
             <div className="name" style={{ fontSize: 22, marginTop: 0 }}>HIMADRI</div>
-            <div className="sub" style={{ fontSize: 11 }}>genai.developer</div>
+            <div className="sub" style={{ fontSize: 11 }}>ml.engineer</div>
           </div>
           <div className="footrow">
             <span>KEY-3F2A-LV01</span>
