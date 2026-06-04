@@ -26,10 +26,26 @@ export default function ServiceAddressCard() {
           <div className="panel-eyebrow">Contact — Reach Me</div>
           <h3>Open to roles & collaborations.</h3>
           <div className="contact-rows">
-            <div className="cr"><span className="k">Email</span><span className="v">work.himadribhattacharya@gmail.com</span></div>
-            <div className="cr"><span className="k">Phone</span><span className="v">+91 95236-85965</span></div>
-            <div className="cr"><span className="k">GitHub</span><span className="v">github.com/himadribh07</span></div>
-            <div className="cr"><span className="k">LinkedIn</span><span className="v">linkedin.com/in/himadribhattacharya3</span></div>
+            <div className="cr">
+              <span className="k">Email</span>
+              <a className="v link" href="mailto:work.himadribhattacharya@gmail.com">work.himadribhattacharya@gmail.com</a>
+            </div>
+            <div className="cr">
+              <span className="k">Phone</span>
+              <a className="v link" href="tel:+919523685965">+91 9523685965</a>
+            </div>
+            <div className="cr">
+              <span className="k">GitHub</span>
+              <a className="v link" href="https://github.com/himadribh07" target="_blank" rel="noreferrer">github.com/himadribh07</a>
+            </div>
+            <div className="cr">
+              <span className="k">LinkedIn</span>
+              <a className="v link" href="https://linkedin.com/in/himadribhattacharya3" target="_blank" rel="noreferrer">linkedin.com/in/himadribhattacharya3</a>
+            </div>
+            <div className="cr">
+              <span className="k">Kaggle</span>
+              <a className="v link" href="https://kaggle.com/himadri07" target="_blank" rel="noreferrer">kaggle.com/himadri07</a>
+            </div>
           </div>
           <div className="corner">CH · 07</div>
         </div>

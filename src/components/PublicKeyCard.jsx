@@ -31,7 +31,7 @@ export default function PublicKeyCard() {
               <div className="yr">2024 — 26</div>
               <div className="body">
                 <div className="ti-t">M.Tech, Computer Science & Engineering</div>
-                <div className="ti-s">NIT Patna · CGPA 8.46</div>
+                <div className="ti-s">NIT Patna · CGPA 8.81</div>
               </div>
             </div>
             <div className="ti">

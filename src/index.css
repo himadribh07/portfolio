@@ -569,6 +569,15 @@ body::before {
 .contact-rows .cr:last-child { border-bottom: 0; }
 .contact-rows .cr .k { color: var(--ink-faint); letter-spacing: 0.2em; text-transform: uppercase; font-size: 10px; }
 .contact-rows .cr .v { color: var(--ink); }
+.contact-rows .cr .v.link {
+  color: inherit;
+  text-decoration: none;
+  transition: opacity 180ms ease, color 180ms ease, text-decoration-color 180ms ease;
+}
+.contact-rows .cr .v.link:hover {
+  color: var(--accent, var(--ink));
+  text-decoration: underline;
+}
 
 /* ============= social tag strip ============= */
 .tag-card {
